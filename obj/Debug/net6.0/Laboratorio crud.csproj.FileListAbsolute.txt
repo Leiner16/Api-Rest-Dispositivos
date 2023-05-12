@@ -1,0 +1,32 @@
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\bin\Debug\net6.0\appsettings.json
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\bin\Debug\net6.0\Laboratorio crud.exe
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\bin\Debug\net6.0\Laboratorio crud.deps.json
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\bin\Debug\net6.0\Laboratorio crud.runtimeconfig.json
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\bin\Debug\net6.0\Laboratorio crud.dll
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\bin\Debug\net6.0\Laboratorio crud.pdb
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\obj\Debug\net6.0\Laboratorio crud.csproj.AssemblyReference.cache
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\obj\Debug\net6.0\Laboratorio crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\obj\Debug\net6.0\Laboratorio crud.AssemblyInfoInputs.cache
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\obj\Debug\net6.0\Laboratorio crud.AssemblyInfo.cs
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\obj\Debug\net6.0\Laboratorio crud.csproj.CoreCompileInputs.cache
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\obj\Debug\net6.0\Laboratorio crud.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\obj\Debug\net6.0\Laboratorio crud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\obj\Debug\net6.0\staticwebassets\msbuild.Laboratorio crud.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\obj\Debug\net6.0\staticwebassets\msbuild.build.Laboratorio crud.props
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Laboratorio crud.props
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Laboratorio crud.props
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\obj\Debug\net6.0\scopedcss\bundle\Laboratorio crud.styles.css
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\obj\Debug\net6.0\Laboratorio crud.csproj.CopyComplete
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\obj\Debug\net6.0\Laboratorio crud.dll
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\obj\Debug\net6.0\refint\Laboratorio crud.dll
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\obj\Debug\net6.0\Laboratorio crud.pdb
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\obj\Debug\net6.0\Laboratorio crud.genruntimeconfig.cache
+C:\Users\leine\source\repos\Laboratorio crud\Laboratorio crud\obj\Debug\net6.0\ref\Laboratorio crud.dll
